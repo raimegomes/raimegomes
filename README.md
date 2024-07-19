@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="250"; style="width: 100%;" src="./bio.png"  />
+  <img height="230"; style="width: 100%;" src="./bio.png"  />
 </div>
 
 ###
