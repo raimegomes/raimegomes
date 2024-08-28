@@ -14,7 +14,7 @@
 
 <br clear="both">
 
-<p align="left"> <strong>Desenvolvedora Front-end apaixonada por desafios e inovação :rocket:</strong> <br><br>Sou uma profissional dedicada e apaixonada por desafios, estudos e tecnologias. Com uma experiência sólida de 5 anos como advogada, desenvolvi habilidades analíticas, de resolução de problemas e comunicação eficaz, as quais estou empregando em minha jornada em direção ao desenvolvimento de software. <br><br><strong>Experiência e Formação :books:</strong> <br><br>Atualmente, estou cursando a faculdade de Análise e Desenvolvimento de Sistemas, além de participar de um Bootcamp em Desenvolvimento Web, na TripleTen, estou aprimorando minhas habilidades nas seguintes tecnologias:<br><br>JavaScript, HTML, CSS, React.js, Node.js, MongoDB, Figma, Webpack, Git, GitHub, Rest API, Google Cloud, Responsive web design.<br><br><strong>O que me diferencia :octocat: :sparkles:</strong><br><br>Se você está em busca de uma profissional determinada, analítica e com uma abordagem inovadora, estou pronta para contribuir de maneira significativa para o seu projeto ou equipe. Minhas experiências passadas e atuais me equipam com uma perspectiva única e uma capacidade incomparável de resolver problemas de forma criativa e eficiente.<br><br><strong>Vamos conectar! 💬</strong> <br><br>Se você está procurando uma desenvolvedora front-end comprometida e apaixonada por tecnologia e inovação, não hesite em me contatar. Estou ansiosa para colaborar e transformar desafios em soluções.</p>
+<p align="left"> <strong>Sou desenvolvedora Front-end apaixonada por desafios e inovação :rocket:</strong> <br><br>Sou uma profissional dedicada e apaixonada por desafios, estudos e tecnologias. Com uma experiência sólida de 5 anos como advogada, desenvolvi habilidades analíticas, de resolução de problemas e comunicação eficaz, as quais estou empregando em minha jornada em direção ao desenvolvimento de software. <br><br><strong>Experiência e Formação :books:</strong> <br><br>Atualmente, estou cursando a faculdade de Análise e Desenvolvimento de Sistemas, além de participar de um Bootcamp em Desenvolvimento Web, na TripleTen, estou aprimorando minhas habilidades nas seguintes tecnologias:<br><br>JavaScript, HTML, CSS, React.js, Node.js, MongoDB, Figma, Webpack, Git, GitHub, Rest API, Google Cloud, Responsive web design.<br><br><strong>O que me diferencia :octocat: :sparkles:</strong><br><br>Se você está em busca de uma profissional determinada, analítica e com uma abordagem inovadora, estou pronta para contribuir de maneira significativa para o seu projeto ou equipe. Minhas experiências passadas e atuais me equipam com uma perspectiva única e uma capacidade incomparável de resolver problemas de forma criativa e eficiente.<br><br><strong>Vamos conectar! 💬</strong> <br><br>Se você está procurando uma desenvolvedora front-end comprometida e apaixonada por tecnologia e inovação, não hesite em me contatar. Estou ansiosa para colaborar e transformar desafios em soluções.</p>
 
 ###
 
@@ -61,7 +61,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/raimegomes/raimegomes/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/raimegomes/raimegomes/main/snake.svg" alt="Snake animation" />
 
 ###
 
