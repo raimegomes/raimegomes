@@ -61,7 +61,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/raimegomes/raimegomes/main/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/raimegomes/raimegomes/output/snake.svg" alt="Snake animation" />
 
 ###
 
